@@ -19,7 +19,7 @@
     "brace-expansion": "^1.1.11",
     "braces": "^3.0.2",
     "braintree": "^3.17.0",
-    "bson": "^4.0.4",
+    "bson": "^1.1.6",
     "buffer-equal-constant-time": "^1.0.1",
     "buffer-from": "^1.1.2",
     "busboy": "^0.2.14",
